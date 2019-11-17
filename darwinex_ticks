@@ -1,0 +1,8 @@
+# - * - codificación: utf-8 - * -
+
+importar argparse
+
+desde .core import  *
+
+__version__  =  " 0.1.4 "
+__author__ =  " Maria Fernanda"
